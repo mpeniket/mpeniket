@@ -6,4 +6,4 @@
 
 - www.mattpeniket.com
 
-- Python, TypeScript, JavaScript, React, C
+- Python, TypeScript, JavaScript, React, C, AWS
