@@ -1,4 +1,4 @@
-- Full Stack Engineer @ Reply
+- Full Stack Engineer @ Storm Reply
 
 - MSc Computer Science @ UCL
 
@@ -6,4 +6,4 @@
 
 - www.mattpeniket.com
 
-- Python, TypeScript, JavaScript, React, C, AWS
+- Python, TypeScript, JavaScript, React, AWS, Terraform
