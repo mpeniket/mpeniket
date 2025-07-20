@@ -7,3 +7,5 @@
 - www.mattpeniket.com
 
 - Python, TypeScript, JavaScript, React, AWS, Terraform
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpeniket&layout=compact&theme=theme)
