@@ -1,4 +1,4 @@
-- Full Stack Engineer @ Storm Reply
+- Software Engineer @ Storm Reply
 
 - MSc Computer Science @ UCL
 
