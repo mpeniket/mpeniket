@@ -1,4 +1,4 @@
-- Software Engineer @ Storm Reply
+- Software engineer interested in cloud / distributed computing, AI, ML
 
 - MSc Computer Science @ UCL
 
